@@ -27,14 +27,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="947.65001"
-     inkscape:cy="1045.3698"
+     inkscape:zoom="1.4"
+     inkscape:cx="409.23427"
+     inkscape:cy="1326.7645"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="856"
+     inkscape:window-width="1280"
+     inkscape:window-height="746"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -59,14 +59,14 @@
      id="layer2"
      inkscape:label="bg">
     <rect
-       style="fill:#808080;fill-opacity:1;stroke:#006680;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#808080;fill-opacity:1;stroke:none"
        id="rect7772"
        width="1359.6653"
        height="1547.5537"
        x="-8.0812206"
        y="-7.041605"
-       rx="3.9808931"
-       ry="3.693434" />
+       rx="0"
+       ry="0" />
   </g>
   <g
      inkscape:label="Layer 1"
